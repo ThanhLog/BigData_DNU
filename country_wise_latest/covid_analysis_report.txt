@@ -1,0 +1,23 @@
+
+
+
+        COVID-19 Data Analysis Report
+        ============================================================
+        Quốc gia có số ca nhiễm cao nhất: US (4290259 cases)
+        Quốc gia có số ca tử vong cao nhất: US (148011 deaths)
+        Quốc gia có tỷ lệ tử vong cao nhất: Yemen (28.56%)
+        ============================================================
+        Xu hướng gia tăng ca nhiễm theo tuần: 1766862 ca mới
+        Quốc gia có mức tăng cao nhất: US (455582 ca mới)
+        Mức tăng trung bình: 13.61%
+        Các khu vực có mức tăng cao nhất:
+                WHO Region  Total_New_Cases
+        0         Americas          1024088
+        1  South-East Asia           357014
+        2           Europe           152707
+        ============================================================
+             Tỷ lệ tử vong trung bình trên 100 ca: 34.98%
+             Tỷ lệ hồi phục trung bình trên 100 ca: 506.31%
+             Quốc gia có tỷ lệ tử vong cao nhất: Yemen (28.56%)
+             Quốc gia có tỷ lệ hồi phục cao nhất: Dominica (100.00%)
+        ============================================================
